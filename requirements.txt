@@ -4,3 +4,4 @@ django-heroku
 djongo
 dnspython
 pillow
+gunicorn
