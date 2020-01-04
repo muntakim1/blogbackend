@@ -1,0 +1,6 @@
+django==2.2.8
+djangorestframework
+django-heroku
+djongo
+dnspython
+pillow
